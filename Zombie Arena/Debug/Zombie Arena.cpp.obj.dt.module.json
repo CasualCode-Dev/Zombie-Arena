@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zombie Arena\\Debug\\Zombie Arena.obj",
+            "outputs": [
+                "Zombie Arena\\Debug\\Zombie Arena.cpp.obj.dt.module.json",
+                "Zombie Arena\\Debug\\Zombie Arena.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
